@@ -1,5 +1,7 @@
 # WhatsApp Chat Analyzer 📊💬
 
+deployed LInk : https://whatsapp-chat-analyzer--pandas-matplotlibapp-xmsocw2qtupys2ddx.streamlit.app/
+
 An end-to-end conversational analytics web dashboard that transforms raw, unformatted WhatsApp chat exports (`.txt` files) into rich data visualizations. This application exposes hidden behavioral patterns, temporal trends, and linguistic insights across entire group ecosystems or for standalone individual profiles.
 
 
